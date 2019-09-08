@@ -1,5 +1,6 @@
 # Web-design-Boilerplate-source-code
 <br>## Getting Started create the new Boilerplate
+<hr>
 <br>#1.node.js software download & install
 <br>#2.git-32_bit software download & install
 <br>#3.npm init <br>
@@ -23,12 +24,14 @@
    ->css <br>
    ->js  <br>
    ->fonts <br>
+   ->scss <br>
+        ->style.css<br>
    ->img  <br>
-
 #9.gulp
-<br> <br>#-----------------------Download the file and command-----------------
+
+<br><br><br>#--------------------Otherwise-Download this file and command-----------------
 <br>#1.node.js software download & install
 <br>#2.git-32_bit software download & install
-<br>#3.Delete this file (css / fons /js) and don't delete sass file
+<br>#3.Delete this file (css / fons /js) and don't delete scss file
 <br>#4.npm install
 <br>#5.npm start
