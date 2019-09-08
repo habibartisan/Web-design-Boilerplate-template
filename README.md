@@ -1,8 +1,8 @@
 # Web-design-Boilerplate-source-code
-#create the new Boilerplate
-#1.node.js software download & install
-#2.git-32_bit software download & install
-#3.npm init <br>
+<br>#create the new Boilerplate
+<br>#1.node.js software download & install
+<br>#2.git-32_bit software download & install
+<br>#3.npm init <br>
     	   package name:--Enter <br>
            varsion     :--Enter <br>
            description :Bootstrap Starter Package <br>
