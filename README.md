@@ -3,7 +3,7 @@
 
 #1.node.js software download & install
 #2.git-32_bit software download & install
-#3.npm init
+#3.npm init <br>
     	   package name:--Enter
            varsion     :--Enter
            description :Bootstrap Starter Package
