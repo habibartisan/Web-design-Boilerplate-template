@@ -28,7 +28,7 @@
 
 #9.gulp
 <br> <br>#-----------------------Download the file and command-----------------
-#1.node.js software download & install
-#2.git-32_bit software download & install
-#3.npm install
-#4.npm start
+<br>#1.node.js software download & install
+<br>#2.git-32_bit software download & install
+<br>#3.npm install
+<br>#4.npm start
