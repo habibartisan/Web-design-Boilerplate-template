@@ -30,5 +30,6 @@
 <br> <br>#-----------------------Download the file and command-----------------
 <br>#1.node.js software download & install
 <br>#2.git-32_bit software download & install
-<br>#3.npm install
-<br>#4.npm start
+<br>#3.Delete this file (css / fons /js) and don't delete sass file
+<br>#4.npm install
+<br>#5.npm start
