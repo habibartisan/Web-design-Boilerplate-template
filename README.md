@@ -27,7 +27,7 @@
    ->scss <br>
         ->style.css<br>
    ->img  <br>
-   ->gulpfile.js <br>
+   gulpfile.js <br>
     Copy the source and past this file <br><br>
   #9. gulp <br>
   #10.npm start <br>
@@ -36,7 +36,7 @@
   "scripts":{ <br>
      "test":"echo \"Error: no test specified\" && exit 1"<br>
      },<br>
-
+  উপরের Code টাকে Edit করে নিচের Code টার মত করতে হবে <br>
 "scripts":{ <br>
      "start":"gulp" <br>
   },<br>   
