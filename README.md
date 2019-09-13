@@ -42,7 +42,13 @@
   },<br>   
  than use this command again <br>
 #10.npm start
+<hr>
+ <br> কিন্তু যখনই  আপনি কোড করতে যাবেন  তখনই একটা প্রবলেম দেখা দেবে, সেটা হচ্ছে আপনার browser, gitbash, এব sess অফ হয়ে যাবে 
+     এটিকে Solve করার জন্য নিম্নোক্ত কমান্ডটি আবার চালাতে হব
+<br>#11. npm audit fix
+<br>#12. npm start
 
+<hr>
 <hr>
 <br><br><br>#--------------------Otherwise-Download this file and command-----------------
 <br>#1. node.js software download & install
