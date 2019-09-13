@@ -50,7 +50,8 @@
 
 <hr>
 <hr>
-<br><br><br>#--------------------Otherwise-Download this file and command-----------------
+<br><br><br>#-------Otherwise-Download this repository and following commands should be executed--------------#
+<hr>
 <br>#1. node.js software download & install
 <br>#2. git-32_bit software download & install
 <br>#3. Delete this file (css / fons /js) and don't delete scss file
