@@ -28,7 +28,7 @@
         ->style.css<br>
    ->img  <br>
    gulpfile.js <br>
-    Copy the source and past this file <br><br>
+    Copy the source code and past this file <br><br>
   #9. gulp <br>
   #10.npm start <br>
      একটি Error দেখা যাবে এবং এটিকে Solve করার জন্য যা করতে হবে| <br>
