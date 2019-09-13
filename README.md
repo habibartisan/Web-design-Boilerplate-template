@@ -45,8 +45,10 @@
 
 <hr>
 <br><br><br>#--------------------Otherwise-Download this file and command-----------------
-<br>#1.node.js software download & install
-<br>#2.git-32_bit software download & install
-<br>#3.Delete this file (css / fons /js) and don't delete scss file
-<br>#4.npm install
-<br>#5.npm start
+<br>#1. node.js software download & install
+<br>#2. git-32_bit software download & install
+<br>#3. Delete this file (css / fons /js) and don't delete scss file
+<br>#4. npm install
+<br> একটি Error দেখা যাবে এবং এটিকে Solve করার জন্য এই কমান্ডটি চালাতে হব
+<br>#5. npm audit fix
+<br>#6. npm start
